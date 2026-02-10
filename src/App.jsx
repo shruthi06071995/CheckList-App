@@ -49,9 +49,9 @@ function App() {
 
   return (
     <>
-      <div className="container head" >
-        <div className='container' style={{padding: "60px 650px"}}>
-          <img style={{ width: "200px" }} src={logo} alt="logo" />
+      <div className="container head">
+        <div className='container' style={{display: "flex", alignItems: "center", padding: "20px 350px"}}>
+          <img style={{ width: "200px", }} src={logo} alt="logo" />
         </div>
         <div className="container mt-5" style={{padding: "60px", textAlign: "center"}} >
           <h3 className="text-center" style={{fontSize: "30px",fontStyle: "unset" }}>
