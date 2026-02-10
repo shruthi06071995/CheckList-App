@@ -1,0 +1,11 @@
+.head {
+    background-image: url(./assets/muruga.png);
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    /* display: flex; */
+    justify-content: center;
+    align-items: flex-start;
+}
